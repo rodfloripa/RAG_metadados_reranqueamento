@@ -5,4 +5,4 @@ Esta RAG primeiro seleciona os documentos baseado nos metadados 'categoria' do d
 
 A vantagem é diminuir a latência da RAG
 
-Depois faz o re-ranqueamento
+Depois é feito o re-ranqueamento
