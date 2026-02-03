@@ -6,3 +6,9 @@ Esta RAG primeiro seleciona os documentos baseado nos metadados 'categoria' do d
 A vantagem é diminuir a latência da RAG
 
 Depois é feito o re-ranqueamento
+
+Para rodar:
+
+crie o .env
+
+OPENAI_API_KEY=sk...
