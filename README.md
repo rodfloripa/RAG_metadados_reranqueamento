@@ -12,3 +12,7 @@ Para rodar:
 crie o .env
 
 OPENAI_API_KEY=sk...
+
+<p align="center">
+  <img src="https://github.com/rodfloripa/RAG_metadados_reranqueamento/blob/main/fig1.png">
+</p>
