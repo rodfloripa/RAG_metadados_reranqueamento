@@ -1,4 +1,4 @@
-# RAG_metadados_reranqueamento
+# Projeto92: RAG com Metadados e Reranqueamento
 RAG com metadados nos documentos e reranqueamento
 
 
